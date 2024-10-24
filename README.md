@@ -1,4 +1,4 @@
-# -OPTIMIZING-FETAL-HEALTH-PREDICTION-USING-CNN-WITH-DROPOUT
+# OPTIMIZING-FETAL-HEALTH-PREDICTION-USING-CNN-WITH-DROPOUT
 ## INTRODUCTION :
 Fetal growth analysis is crucial for prenatal care, providing insights into fetal well-being and development. Early detection of inadequate growth can help prevent serious complications, impacting both maternal and infant health. With rising pregnancy-related health issues, timely monitoring is essential to improve outcomes, aligning with the UN's Sustainable Development Goal 3 of promoting well-being for all.
 
